@@ -1,5 +1,4 @@
-  [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/0/09/KochTurtleAnim.gif)](https://github.com/EddyOrbyta)
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ### Hi there 👋
 - 🔭 I’m currently working on Java Springboot and Angular
 - 🌱 I’m currently studying a bit of everything at ICT ITS Foundation, Turin (IT) 
