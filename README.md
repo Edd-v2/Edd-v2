@@ -1,5 +1,5 @@
-<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-### Hi there 👋
+
+### Hi there  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
 - 🔭 I’m currently working on Java Springboot and Angular
 - 🌱 I’m currently studying a bit of everything at ICT ITS Foundation, Turin (IT) 
 
