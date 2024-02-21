@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on Java Springboot and Angular
 - 🌱 I’m currently studying a bit of everything at ICT ITS Foundation, Turin (IT) 
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=EddyOrbyta&theme=highcontrast)](https://git.io/streak-stats)
   [![MasterHead](https://media1.tenor.com/m/bQCHJwgCNuMAAAAC/kitten-cat.gif)](https://github.com/EddyOrbyta)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <!--
 **EddyOrbyta/EddyOrbyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
