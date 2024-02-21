@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning a bit of everything
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=EddyOrbyta)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=EddyOrbyta&theme=highcontrast)](https://git.io/streak-stats)
+  
+    <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
 
 <!--
 **EddyOrbyta/EddyOrbyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
