@@ -1,14 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Java Springboot and Angular
-- 🌱 I’m currently learning a bit of everything
+- 🌱 I’m currently studying a bit of everything at ICT ITS Foundation, Turin (IT) 
 
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=EddyOrbyta&theme=highcontrast)](https://git.io/streak-stats)
   [![MasterHead](https://media1.tenor.com/m/bQCHJwgCNuMAAAAC/kitten-cat.gif)](https://github.com/EddyOrbyta)
 
-
-
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 <!--
 **EddyOrbyta/EddyOrbyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
