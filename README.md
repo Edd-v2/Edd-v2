@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Edoardo but everybody calls me Eddy <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-- 🔭 I’m currently working on Java Springboot and Angular 
+- 🔭 I’m currently working on Go  
 - 🌱 Learning Linux
 - 🌱 Employed by ORBYTA Turin (IT)  
 <p>
