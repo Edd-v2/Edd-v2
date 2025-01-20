@@ -11,8 +11,6 @@
   
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Edd-v2&theme=highcontrast)](https://git.io/streak-stats)
-
-  
  <!-- [![MasterHead](https://media1.tenor.com/m/bQCHJwgCNuMAAAAC/kitten-cat.gif)](https://github.com/EddyOrbyta)-->
   
   <p>
