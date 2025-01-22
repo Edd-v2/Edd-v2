@@ -1,14 +1,12 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 # Introduction
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Think%20freely%20:%20create,%20disrupt,%20and evolve.%20;Claim%20the%20impossible;1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/Thinkright20">Edd-v2</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/Edd-v2">Edd-v2</a></h3>
 <h5 align="center">but everybody calls me Eddy</h5>
-<h7 align="center">Open Source Developer who likes a bit of everything</h7>
+<h5 align="center">Open Source Developer who likes a bit of everything</h5>
 <!--<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> -->
 <p align="center">
   <!--
@@ -54,7 +52,7 @@
 -  📫 How to reach me: .. (WIP) 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,springboot,github,mongodb,rdbms,html,js,angular,go,react,docker,linux"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=go,java,angular,html,js,intellij,vscode,springboot,github,mongodb,postgres,docker,linux"> </a> </p>
 
 ## My Stats:
 <p align="center">
@@ -69,7 +67,7 @@
 </a> 
 </p>
 
-## Top Respositorys
+
 <!--
   <p align="left">
      <a href="https://github.com/Thinkright20/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -77,4 +75,4 @@
    <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
  -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"></p>
+
