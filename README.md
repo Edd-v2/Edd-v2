@@ -66,7 +66,9 @@
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Edd-v2&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a>
   
+  <a> 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edd-v2&layout=pie)](https://github.com/Edd-v2/github-readme-stats)
+  </a>
 </p>
 
 
