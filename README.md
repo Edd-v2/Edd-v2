@@ -52,7 +52,7 @@
 -  📫 How to reach me: .. (WIP) 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=go,java,spring,angular,ts,js,html,idea,vscode,jenkins,rabbitmq,hibernate,github,mongodb,postgres,aws,docker,linux,py,azure,bitbucket,figma"> </a> </p>
+<p align="left"> <a href="https://github.com/Edd-v2"><img src="https://skillicons.dev/icons?i=go,java,spring,angular,ts,js,html,idea,vscode,jenkins,rabbitmq,hibernate,github,mongodb,postgres,aws,docker,linux,py,azure,bitbucket,figma"> </a> </p>
 
 ## My Stats:
 <p align="center">
