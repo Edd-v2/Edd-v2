@@ -1,6 +1,6 @@
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 ## Introduction
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Open%20source%20Developer%20;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
@@ -76,4 +76,4 @@
    <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
  -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"></p>
