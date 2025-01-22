@@ -7,7 +7,8 @@
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/Thinkright20">Edd-v2</a></h3>
-<h5 align="center"> but everybody calls me Eddy</h5>
+<h5 align="center">but everybody calls me Eddy</h5>
+<h7 align="center">Open Source Developer who likes a bit of everything</h7>
 <!--<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> -->
 <p align="center">
   <!--
