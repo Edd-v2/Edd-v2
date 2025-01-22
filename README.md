@@ -1,9 +1,9 @@
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-## Introduction
+
+# Introduction
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Open%20source%20Developer%20;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Think%20freely%20:%20create,%20disrupt,%20and evolve.%20;Claim%20the%20impossible;1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/Thinkright20">Edd-v2</a></h3>
