@@ -48,7 +48,7 @@
 - 🔭 Working on Websites/Go and Java Development
 - 🌱 Learning Go & more
 - 🌱 Employed by ORBYTA Turin (IT)
-- 👯 I’m looking to collaborate on: *influenzanet*
+- 👯 I’m looking to collaborate on: 
 -  📫 How to reach me: .. (WIP) 
 ## Languages and Tools
 
