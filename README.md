@@ -73,7 +73,7 @@
 #### Databases & Messaging
 <p align="left">
   <a href="https://github.com/Edd-v2">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,rabbitmq,postgis,minio"> 
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,rabbitmq,oracle,postgis,minio"> 
   </a>
 </p>
 
