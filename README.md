@@ -51,7 +51,7 @@
 - 👯 I’m looking to collaborate on: 
 -  📫 How to reach me: .. (WIP) 
 
-## Backend
+ Backend
 
 <p align="left"> 
   <a href="https://github.com/Edd-v2">
@@ -59,7 +59,7 @@
   </a> 
 </p>
 
-## Frontend
+ Frontend
 
 <p align="left"> 
   <a href="https://github.com/Edd-v2">
@@ -76,7 +76,7 @@ Tools
   </a> 
 </p>
 
-## Cloud & Architecture
+ Cloud & Architecture
 
 <p align="left"> 
   <a href="https://github.com/Edd-v2">
@@ -84,14 +84,15 @@ Tools
   </a> 
 </p>
 
-## Databases & Messaging
+ Databases & Messaging
 
 <p align="left"> 
   <a href="https://github.com/Edd-v2">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,rabbitmq, postgis, minio"> 
   </a> 
 </p>
-## My Stats:
+
+##  My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Edd-v2&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
