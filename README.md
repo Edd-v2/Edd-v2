@@ -52,7 +52,7 @@
 -  📫 How to reach me: .. (WIP) 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/Edd-v2"><img src="https://skillicons.dev/icons?i=java,go,py,spring,angular,ts,js,html,idea,vscode,rabbitmq,github,mongodb,postgres,aws,docker,bitbucket,figma"> </a> </p>
+<p align="left"> <a href="https://github.com/Edd-v2"><img src="https://skillicons.dev/icons?i=java,go,py,spring,angular,ts,js,html,idea,vscode,rabbitmq,mongodb,postgres,aws,docker,bitbucket,figma"> </a> </p>
 
 ## My Stats:
 <p align="center">
