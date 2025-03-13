@@ -50,14 +50,47 @@
 - 🌱 Employed by ORBYTA Turin (IT)
 - 👯 I’m looking to collaborate on: 
 -  📫 How to reach me: .. (WIP) 
-## Languages and Tools
 
-<p align="left"> <a href="https://github.com/Edd-v2"><img src="https://skillicons.dev/icons?i=java,go,py,ts,js,html"> </a> </p>
+## Backend
 
-<p align="left"> <a href="https://github.com/Edd-v2"><img src="https://skillicons.dev/icons?i=spring,angular,idea,vscode,aws,docker,bitbucket,figma"> </a> </p>
+<p align="left"> 
+  <a href="https://github.com/Edd-v2">
+    <img src="https://skillicons.dev/icons?i=java,go,py,spring"> 
+  </a> 
+</p>
 
-<p align="left"> <a href="https://github.com/Edd-v2"><img src="https://skillicons.dev/icons?i=rabbitmq,mongodb,postgres,aws,docker,bitbucket,figma"> </a> </p>
+## Frontend
 
+<p align="left"> 
+  <a href="https://github.com/Edd-v2">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,angular"> 
+  </a> 
+</p>
+
+
+Tools
+
+<p align="left"> 
+  <a href="https://github.com/Edd-v2">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,bitbucket,figma"> 
+  </a> 
+</p>
+
+## Cloud & Architecture
+
+<p align="left"> 
+  <a href="https://github.com/Edd-v2">
+    <img src="https://skillicons.dev/icons?i=aws,docker"> 
+  </a> 
+</p>
+
+## Databases & Messaging
+
+<p align="left"> 
+  <a href="https://github.com/Edd-v2">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,rabbitmq, postgis, minio"> 
+  </a> 
+</p>
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Edd-v2&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
