@@ -7,7 +7,7 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/Edd-v2">Edd-v2</a></h3>
 <h5 align="center">but everybody calls me Eddy</h5>
 <h5 align="center">Open Source Developer who likes a bit of everything</h5>
-<h6 align="center">21yo</h6>
+
 <p align="center">
   <a href="https://github.com/Edd-v2?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Edd-v2?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/>
