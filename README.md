@@ -10,7 +10,7 @@
 ### 🌍 About Me
 - 💼 Currently working at **ORBYTA Turin (IT)**
 - 💡 Passionate about **Go, Java, and backend architectures**
-- 🌱 Learning **Helm & Kubernetes**
+- 🌱 Learning **Cloud & Kubernetes**
 - 🤝 Open to collaborating on **open-source projects**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/edoardo-caon-354bb427a) or [Email](mailto:edward02caon@gmail.com)
 
@@ -90,4 +90,4 @@
 ---
 
 <p align="center"><i>"Clean code is not written by following rules. It is written by following purpose."</i></p>
-<p align="center">— Eddy 🧩</p>
+<p align="center">— Eddy </p>
