@@ -8,7 +8,6 @@
 ---
 
 ### 🌍 About Me
-- 💼 Currently working at **ORBYTA Turin (IT)**
 - 💡 Passionate about **Go, Java, and backend architectures**
 - 🌱 Learning **Cloud & Kubernetes**
 - 🤝 Open to collaborating on **open-source projects**
